@@ -26,10 +26,11 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Nicole Provan (@provanni#1363)
     - Mariel Martinez (@Mares#3426)
     - Ngoc Vuong (@Dragonza#2281)
+    - Hadjer (@hadjer11#3951)
     
-* Seeking Teammates: Yes
+* Seeking Teammates: No
 * [Project URL](https://github.com/provanni/2018-JAMstack-project)
-* Project Name (ok to say "coming soon" and update it later)
+* Project Name: Coming soon.
 
 
 ***
