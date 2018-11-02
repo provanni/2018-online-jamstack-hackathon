@@ -25,8 +25,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Teammates:
     - Nicole Provan (@provanni)
     - Mariel Martinez (@Mares#3426)
+    
 * Seeking Teammates: Yes
-* [Project URL](https://github.com/your-profile/your-project-name)
+* [Project URL](https://github.com/provanni/2018-JAMstack-project)
 * Project Name (ok to say "coming soon" and update it later)
 
 
