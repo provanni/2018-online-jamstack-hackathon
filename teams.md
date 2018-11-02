@@ -8,8 +8,7 @@
 # Project Name
 ### Less than 240 Characters describing what we're building. Include external links here if desired
 * Teammates:
-    - Nicole Provan (@provanni)
-    - Mariel Martinez (@discordUserProfileName)
+    - 
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/your-profile/your-project-name)
 * Project Name (ok to say "coming soon" and update it later)
@@ -25,7 +24,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ### Less than 240 Characters describing what we're building. Include external links here if desired
 * Teammates:
     - Nicole Provan (@provanni)
-    - Mariel Martinez (@discordUserProfileName)
+    - Mariel Martinez (@Mares#3426)
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/your-profile/your-project-name)
 * Project Name (ok to say "coming soon" and update it later)
