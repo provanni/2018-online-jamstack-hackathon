@@ -23,8 +23,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 # Project Name
 ### Less than 240 Characters describing what we're building. Include external links here if desired
 * Teammates:
-    - Nicole Provan (@provanni)
+    - Nicole Provan (@provanni#1363)
     - Mariel Martinez (@Mares#3426)
+    - Ngoc Vuong (@Dragonza#2281)
     
 * Seeking Teammates: Yes
 * [Project URL](https://github.com/provanni/2018-JAMstack-project)
