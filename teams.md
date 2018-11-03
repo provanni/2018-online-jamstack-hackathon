@@ -34,8 +34,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 ***
 
 
-# Project Name
-### Less than 240 Characters describing what we're building. Include external links here if desired
+# Emote Journal
+### Tracks your mood across time.
 * Teammates:
     - Nicole Provan (@provanni#1363)
     - Mariel Martinez (@Mares#3426)
@@ -44,7 +44,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     
 * Seeking Teammates: No
 * [Project URL](https://github.com/provanni/2018-JAMstack-project)
-* Project Name: Coming soon.
+* Project Name: Emote Journal.
 
 
 ***
