@@ -47,6 +47,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+
 # Emote Journal
 ### A web application to track your mood.
 * Teammates:	* Teammates:
@@ -57,5 +58,363 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     	    
 * Seeking Teammates: No
 * [Project URL](https://github.com/provanni/2018-JAMstack-project)
+
+***
+
+# SunCodeFlower
+### We created this team to participate in 2018 Online freeCodeCamp JAMstack Hackathon. Good luck to us!
+* **Teammates**:
+  - Olha  (@oshka)
+  - Itsik  (@Itsik)
+  - Alberto (@Albertoescala)
+  - John (@johnotu)
+
+
+* **Seeking Teammates**: no
+* [GitHub URL](https://github.com/oshka/SunFoodApp)
+* **Project Name**: SunFoodApp
+
+### Project Q&A:
+**1. What are you going to build?**
+We are going to build an app for helping seekers to find specific dish/food. The app will direct to the local restaurants that have the dish and mentions its price and offer the restaurant menu. Also show directions to the restaurant from the user current location.  
+**2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  **
+Fauna (for call the db and receive data), Clarify (to detect food image), Formspree (for collecting delivery address), Pilon (because it's interesting to try)
+**3. What is your plan to execute this idea?  **
+Stage 1.
+* create a gallery of food pictures 
+* create a page to show food details 
+* create a page to search food 
+* create food database
+
+***
+
+# CapeCoders
+### This project is going to be a budgeting/expense app to help people manage their finances and track expenses.
+* Teammates:
+    - Christopher Karras (@ckarras)
+    - Dimo Ivanov (@Dimo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ckarras11/fcc-hackathon)
+* Project Name SpareChange
+### Project Q&A:
+1. What are you going to build?  
+We are building an expense tracking app
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We plan on using netlify-identity and hasura
+3. What is your plan to execute this idea?  
+We are going to use gatsby, react, and material-ui to build out the ui.  Then we will use netlify identity to manage users and then make calls to hasura.  Our goal is to finish the ui today and spend tomorrow on the logic and connecting the db.
+***
+
+# Coming Soon
+### An AI app that detects and identifies diseases on skin and plants.
+* Teammates:
+    - Alfred Conlan (@Alfred#6356)
+    - Dennis Deamer (@Demird14#4032)
+    - Joseph Eton (@etonjoe#5279)
+    - Juan Garcia (@john</>#0065)
+    - imtan007 (@Tanmay#3030)
+* Seeking Teammates: No
+* [Project URL](https://github.com/AlfredConlan/fccHackathonTeamProject)
+* Project Name (comming soon)
+
+***
+
+# FindUrFeeling.
+### Using FindYourFeeling, Any human can find their feeling based on Clarifai API mainly focused on facial expression detection.
+
+* Teammates:
+    - Monica Pattel (@MonikaPatellT)
+    - Qasim Hafeez (@Qasim)
+    - Juan Pablo Yeverino (@JPYeverino)
+    - Nassim (@Nsdz)
+    - Rossella Ferrandino (@RosellaFer)
+    - bvipul (@bvipul)
+
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/your-profile/your-project-name)
+* Find Ur Feeling
+
+***
+
+# PawnShopify
+### An online pawn shop
+* **Teammates**:
+  - @Jarrod
+  - @smakosh
+  - @kBrew
+* **Seeking Teammates**: No
+* [Project URL](https://github.com/appleJax/pawn-shopify)
+* **Team Name**: Prestige Worldwide
+
+***
+
+# Quizard - swing your knowledge wand
+### An online quiz app where questions would be asked on topics selected by the user. This is a timer-based quiz with four options for every question with only one being correct. Now, after successfully completing the quiz, the user will be mailed with a digital badge and the score reflecting his/her performance!
+* Teammates:
+    - Priyabrata Biswas (@pbiswas101)
+		- Rajat Kanti Nandi (@rajatkn)
+		- Daniel Pöhle (@danielp)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/pbiswas101/Quizard)
+* Project Name - Quizard
+
+***
+
+# CMintS
+### [CMintS](https://cmints.io) is a CMS and static site generator created with the internationalization in mind, but yet it's not deployable to the Netlify, the idea is to during current Hackathon create a Multilanguage websites, Themes and deploy them to the Netlify, meanwhile adapt actual [CMintS package](https://www.npmjs.com/package/cmints) to support Netlify deployment. Also document the deployment process in https://cmints.io.
+* Teammates:
+    - Manvel (@saroyanm)
+    - @Miss500
+    - @OdearOgy
+    - @satyendra
+    - @nvs16
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/Manvel/cmints)
+
+***
+
+# MAYN! MAYN! MAYN!
+### An auction where buyers chats 'MINE!', it also has buy and sell cuz reasons. [This video will make this things clearer.](https://www.youtube.com/watch?v=p-3e0EkvIEM)
+* Teammates:
+    - Renz Christen Yeomer A. Pagulayan (@ThatOneNoob)
+* Seeking Teammates: No
+* [Project Website](https://romantic-euler-651676.netlify.com/)
+* [Project Repo](https://github.com/larongbingo/MAYN-MAYN-MAYN)
+
+***
+# FccFriendshipTest
+### A Simple JAMStack questions game App - More info coming soon
+* Teammates:
+    - Simon Xiong (@simonxcode)
+    - Akhil Alluri (@techalien)
+    - Ion Varsescu (@Ion Varsescu)
+    - Kopal (@km.)
+    - Sunday Joe (@pac_admin)
+* Seeking Teammates: No
+* [GitHub URL](https://github.com/techalien/FccFriendshipTest)
+* Coming soon
+
+***
+
+# JAKE
+### Undecided, but tentatively a scavenger hunt web app
+* **Teammates**:
+  - Jait Jacob (@jaitjacob)
+  - Adam Wier (@AdamWier)
+  - Kelby Baca (@kelby-baca)
+  - Eunice Park (@eunicode)
+* **Seeking Teammates**: Yes, if you're a coding wizard and want to donate your magical skills, or if you're familiar with React basics
+* [Project URL](https://github.com/teamjake2018/jake)
+* Project Name: coming soon
+
+***
+# Kids Kata
+### Learning Platform for kids to learn and memorize name of objects, colors and animals with the use of images. It also favours autistic kids. 
+* Teammates:
+    - Getty Orawo (@Getty)
+    - Pollet Obuya (@P.)
+    - Peter Omondi (@pomosly)
+            * Seeking Teammates: No
+            * [Project URL](https://github.com/Podiihq/kids-kata.git)
+            * Project Name: Kids Kata
+
+***
+
+# Haptreyscorwix
+### An app for finding music matching your video. It uses video recognition to match subjectively the description to a musical genre.
+* Teammates:
+    - Julien Demarque (@HappyPanda)
+    - Adrian Wix (@AdrianWix)
+    - Trey Huffine(@trey)
+    - Ahmed Ihsan Tawfeeq (@scorpion9979)
+* Seeking Teammates: No
+* [Project URL](https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher)
+* Project Name : Video Audio Matcher
+
+***
+
+# Kungara
+### The app helps the tailor or designers to avail different designs and fabrics to their clients. The clients can also send their measurements and images to the tailors.
+* Teammates:
+    - Teammate Name (@MemoryJos)
+    - Teammate Name (@JackieW)
+    - Teammate Name (@okothkongo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/Podiihq/kungara)
+***
+
+# Mathosaurus X
+### A math RPG - level up and win badges while learning real math skills
+* Teammates:
+    - Ruan Huysen (@Rhman101)
+    - Regina McGuire (@reginam)
+    - Devesh Parashar (@dopinder)
+    - Rein Yee Deocareza (@chi?)
+    - Emma Margeson (@mawarijo)
+* Seeking Teammates: No
+* [Project URL](https://github.com/deveshp/jamstack-hackathon)
+
+# BadCodersBad
+### Get a list of ingredients in your meal, with their nutrition, calorie value.
+* Teammates:
+    - Vipul Dessai (@badgamerbad)
+    - Kartik Malik (@arrow2406)
+* Seeking Teammates: No
+* [Project URL](https://github.com/kartik2406/ingredo-fit)
+* Project Name: IngredoFit
+
+***
+
+# Team Barter Hub
+### An E-commerce site for bartering goods
+* Teammates:
+    - @Davido#4076
+    - @gopikrishna#8032 
+    - @Lonewolf#5690 
+    - @Marifer#8861 
+    - @Ma7eer#3701 
+* Seeking Teammates: No
+* [Project URL](https://github.com/hamiltonbarnes/barter_hub-freecodecamp-jamstackhackathon2018)
+* Project Name: Barter Hub 
+
+# Count'em All
+### A simple app to count the number of people attending a gathering
+* Teammates:
+    - Shrey Dabhi (@sdabhi23)
+    - Sohel Shaikh (@thesohelshaikh)
+* Seeking Teammates: No
+* [Project URL](https://github.com/sdabhi23/count-em-all)
+* Count'em All
+
+# Thascii
+### A facial recognition authentication SPA
+* Teammates:
+    - Samuel Afolaranmi (@asiidev)
+    - Ali Nisar Ahmed (@downrightcriminal)
+    - Pavlos (@pavlos)
+    - Sarthak (@Sarthak)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ascii-dev/thascii)
+* Project Name Thascii
+
+***
+
+# ALA
+### Trying to decide for the moment
+* Teammates:
+    - Alexandru Vranceanu (@valexander)
+    - Alina Ivan (@apryllya)
+    - Leontin Stoea (@discordUserProfileName)
+* Seeking Teammates: No
+* [Project URL](https://github.com/stl30/ALA)
+* Project Name: coming soon
+
+***
+
+# HoustonHacks
+### Reminder service that sends SMS or email renewal reminders to customers based on renewal date.
+* Teammates:
+    - Hector J. Saldana (@electricgnome)
+    - Biko Allen (@kobi1021)
+    - Earle Poole (@Emjp4)
+    - Yetunde Sola-Adebayo (@yetunde79)
+    - Josh Medeski (@Big_Josh_7)
+* Seeking Teammates: No
+* [Project URL](https://github.com/electricgnome/smsRenewal)
+* Project Name: Renewal Reminder
+
+***
+
+# Farmer Helper
+### Machine Learning powered application that can predict the disease plant is suffering from by just using the image and can also provide some suggestion for how to cure it. Discussion platform that enables farmers to discuss how he has to proceed further.
+* Teammates:
+    - Hardik Modi (@hardik)
+* Seeking Teammates: No
+* Coming Soon
+* Project Name: Farmerhelper
+
+***
+
+# MagiKart
+### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
+* **Teammates of TeamHacky**:
+  - Ronique Ricketts (@NiQ)
+  - Harshil Agrawal (@harshil1712)
+  - Cremona Matei (@cremzoo)
+  - Abhishek Yadav (@phoenixabhishek)
+  - Lakshmi Chandana (@chandana)
+  - Linda Kovacs (@lindakovacs)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+
+***
+
+# MarketGraph
+### Helps you quickly obtain & collect user data on project ideas & campaigns.
+* Teammates:
+    - Andy Cary (@andycary)
+    - Hays Stanford(@hays)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/your-profile/your-project-name)
+* Project Name (ok to say tbd and update later)
+
+***
+
+# Extra-Life Donation Leaderboard
+### In the spirit of Extra-Life Game Day raising money for Children's Miracle Network, we are creating a leaderboard to show the donations received from the members of our team and allows you to see live updates using React. 
+* Teammates:
+  - Christopher Tse (@Gavlois)
+  - Joe Matthews
+  - Hong L
+  - Natalie Fleming
+* Seaking Teammates: No
+* [Project URL](https://github.com/chris-tse/extralifeleaderboard)
+* Project Name: Extra-Life Donations Leaderboard
+
+***
+
+# 1000 Words
+### A site where people can submit an image and get results based on the general feel of the image.
+* Teammates:
+    - Daniel Ramsayer (@Neko#9307)
+    - Daniel Evans (@Gate#5312)
+    - Peter Durham (@funoptimizer#2690)
+    - Aaron Baker (@Muluul#6162)
+    - Tony Neuhold (@aneuhold#3384)
+* Seeking Teammates: No
+* [Project URL](https://1000-words.netlify.com/)
+### Project Q&A:
+1. What are you going to build?  
+	A site that will take in an image and return various results based on the words that the image provides. We will try to get it to return a poem, or some kind of book. We might try to add different kinds of results as well. 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+	Clarifai, FaunaDB (probably)
+3. What is your plan to execute this idea?  
+	To test the basic idea of getting an image to return results in the form of a poem, or a list of thematically relavant material such as a small list of songs. After that we will try to build out different features. 🙂
+
+***
+
+# HAKO
+### An app where we can choose and put the film we like on watchlist
+* Teammates
+  - Hiraz (@hiraz)
+  - Ali (@Ali)
+  - Ann (@kun)
+* Seeking teammate: Yes
+* [Project URL] (https://github.com/AnnLe4869/HackathonProject)
+
+***
+
+# TIL - Today I Learned
+### An application that accepts user submitted tips and tricks for new programmers
+* Teammates:
+    - Kevin Tan (@Node)
+    - Joseph Thompson (@Jthomps838)
+    - Nick Piaskoski (@pieguy)
+    - Chris Watkin  (@DeafDucky)
+    - Ahmed Belhadj (@Ahmed)
+* Seeking Teammates: No
+* [Project URL](https://github.com/ktan114/JAMstack-Hackathon)
+* [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
+
 
 ***
