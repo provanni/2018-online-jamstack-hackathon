@@ -57,3 +57,5 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     	    
 * Seeking Teammates: No
 * [Project URL](https://github.com/provanni/2018-JAMstack-project)
+
+***
